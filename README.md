@@ -13,8 +13,7 @@ I'm an undergraduate student pursuing a **Bachelor of Technology in Computer Sci
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ## 😂 Fun Fact
-I once debugged a program for **3 hours**, only to realize the issue was a missing semicolon. 😅
-
+I joined GitHub before I even knew what `git commit` really did 😅  
 ---
 
 <!-- You can add your social links here -->
